@@ -1,6 +1,7 @@
 {
-  "dependencies": {
-    "node-fetch": "3.3.1",
-    "unfluff": "3.2.0"
-  }
+	"dependencies": {
+		"node-fetch": "3.3.1",
+		"unfluff": "3.2.0",
+		"@nem035/gpt-3-encoder": "1.1.7"
+	}
 }
